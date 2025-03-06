@@ -1,0 +1,16 @@
+body {
+font-family:"Lucida Handwriting", Cursive, sans-serif;
+font-size: 32px;
+text-align: center;
+color: white;
+background-color: black;
+}
+h2 {
+	border-style:none none double none;
+	border-width: 10px;
+	outline-style: none none double none;
+	outline-color: white;
+	outline-width: 5px;
+	text-shadow: 3px 3px 5px gray;
+
+}
